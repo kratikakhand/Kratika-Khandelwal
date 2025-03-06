@@ -1,6 +1,6 @@
 # 🎨 Frontend Developer | Full-Stack Enthusiast 🚀
 
-                                                    HELLO WORLD! THIS IS KRATIKA KHNADELWAL.
+                                   HELLO WORLD! THIS IS KRATIKA KHNADELWAL.
 ---
 
 ## 🌟 About Me
